@@ -1,2 +1,2 @@
 #!/bin/bash
-ech $((10#$BINARY))
+ech $((2#$BINARY))
